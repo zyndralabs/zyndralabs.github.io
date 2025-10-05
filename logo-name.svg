@@ -1,7 +1,7 @@
 <svg width="300" height="80" viewBox="0 0 300 80" xmlns="http://www.w3.org/2000/svg">
   <g font-family="'Roboto', sans-serif">
     <text x="5" y="35" font-size="36" font-weight="300" fill="#000">
-      <tspan>Zyndra</tspan><tspan fill="#E76F51">/</tspan><tspan></tspan>
+      <tspan fill="#E76F51">Z</tspan><tspan>yndra</tspan>
     </text>
     <text x="5" y="70" font-size="36" font-weight="300" fill="#264653">
       Labs
